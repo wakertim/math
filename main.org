@@ -1,0 +1,15 @@
+* Problem                                                :Math:Derivative:
+:PROPERTIES:
+:ID:          id1
+:COURSE:      MM2001
+:SOURCE:      PS1
+:TYPE: Problem
+:LAST_REVIEW: 
+:INTERVAL:    
+:EASE:        
+:DUE:         
+:END:
+Find the derivative of $f(x) = x^3 e^x$.
+[[file:solutions/id1.png]]
+
+
