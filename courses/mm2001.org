@@ -1,0 +1,27 @@
+* Problem 001                                       :Math:Derivative:
+:PROPERTIES:
+:ID:             id1
+:COURSE:         MM2001
+:SOURCE:         PS1
+:VALID_SOLUTION: false
+:END:
+
+#+BEGIN_EXPORT typst
+#block(
+  stroke: 0.5pt + gray,
+  inset: 12pt,
+  radius: 6pt,
+  [
+    #grid(
+      columns: (1fr, auto),
+      [*Problem 001*],
+      text(size: 8pt, fill: gray)[ID: id1 | Source: PS1]
+    )
+    #v(4pt)
+    Find the derivative of $f(x) = x^3 e^x$.
+    
+    // Optional whitespace or image check for unsolved state
+    #v(4cm)
+  ]
+)
+#+END_EXPORT
